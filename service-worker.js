@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ReactWeartherApp/precache-manifest.4e96dca5b41fd101d13decb039ed5d17.js"
+  "/ReactWeartherApp/precache-manifest.483a2b293449c0af18bfc07964a37ea7.js"
 );
 
 self.addEventListener('message', (event) => {
